@@ -19,10 +19,8 @@ Example:
   $repeat("Hello, World!", 2, 2)
  
 Would give:
-  $(2 SECONDS WAIT)
-  $Hello, World!
-  $(2 SECONDS WAIT)
-  $Hello, World!
+ (Wait 2) Hello, World!
+ (Wait 2) Hello, World!
  
 # More information
 For more information you can visit the offical JaskaranPython site: https://jaskaranpython.glitch.me/repeat.html
